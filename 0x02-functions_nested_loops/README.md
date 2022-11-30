@@ -17,7 +17,7 @@ Files | Binary file | Main file | Description
 [8-24_hours.c](./8-24_hours.c) | [8-24](./8-24) | [8-main.c](./8-main.c) | Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 [9-times_table.c](./9-times_table.c) | [9-times_table](./9-times_table) | [9-main.c](./9-main.c) | Write a function that prints the 9 times table, starting with 0.
 [putchar](./_putchar.c) | | | outputs results to the console.
-[main.h](./main.h) | | | | contains Header files and libraries.
+[main.h](./main.h) | | | contains Header files and libraries.
 
 # Author
 Joseph Kakai
