@@ -14,3 +14,9 @@ File | Binary file | Main file | Description
 [5-more_numbers.c](./5-more_numbers.c) | [5-more_numbers](./5-more_numbers) | [5-main.c](./5-main.c) | Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 [putchar.c](./_putchar.c) | | | | outputs result onto the console
 [main.h](./main.h) | | | | Contains Header files and libraries.
+
+# Author
+Joseph Kakai
+
+# Cohort
+9
