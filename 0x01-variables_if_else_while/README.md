@@ -22,9 +22,9 @@ Files | Binary file | Description
 
 [7-print_tebahpla.c](./7-print_tebahpla.c) | [7-print_tebahpla](./7-print_tebahpla) | Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 
-[8-print_base16.c](./8-print_base16.c) | [8-print_base16.c](./8-print_base16.c) | Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
+[8-print_base16.c](./8-print_base16.c) | [8-print_base16](./8-print_base16) | Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 
-[9-print_comb.c](./9-print_comb.c) | [9-print_comb.c](./9-print_comb.c) | Write a program that prints all possible combinations of single-digit numbers.
+[9-print_comb.c](./9-print_comb.c) | [9-print_comb](./9-print_comb) | Write a program that prints all possible combinations of single-digit numbers.
 
 
 ## Author
